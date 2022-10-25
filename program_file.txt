@@ -1,0 +1,5 @@
+alu32.v
+control.v
+decoder.v
+regfile.v
+cpu.v
